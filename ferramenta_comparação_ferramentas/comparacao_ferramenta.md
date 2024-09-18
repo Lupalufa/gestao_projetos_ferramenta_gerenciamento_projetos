@@ -1,11 +1,11 @@
 # Comparação de Ferramentas de Gestão de Projetos: Trello, Jira e Asana
 
 ## Introdução
-A escolha da ferramenta de gestão de projetos ideal pode ser um desafio, especialmente com a variedade de opções disponíveis no mercado. Neste guia, vamos comparar três das ferramentas mais populares: Trello, Jira e Asana, oferecendo uma análise detalhada para ajudar você a tomar a melhor decisão para o seu projeto e equipe.
+A escolha da ferramenta de gestão de projetos ideal pode ser um desafio e tanto, especialmente com a variedade de opções que existem no mercado. Nesta pesquisa, vamos comparar três das ferramentas mais populares de gestão: Trello, Jira e Asana, oferecendo uma análise detalhada sobre essas ferramentas e como elas podem ajudar o desenvolvimento de um projeto em equipe.
 
-## Trello: A Flexibilidade para Pequenos Projetos
+## Trello:
 
-O Trello, com sua interface visual e intuitiva, é como um quadro branco virtual onde você organiza suas tarefas em cartões, listas e quadros. Ele é ideal para projetos menores, equipes ágeis e aqueles que valorizam a flexibilidade.
+O Trello, com a sua interface visual e intuitiva, é como um quadro branco virtual onde você organiza as suas tarefas em cartões, listas e quadros. Ele é ideal para projetos menores, equipes ágeis e aqueles que valorizam a flexibilidade.
 
 ### Principais características:
 - **Visual**: Interface simples e organizada em quadros, listas e cartões, facilitando a visualização do progresso do projeto.
