@@ -14,4 +14,4 @@ O Jira é uma ferramenta completa para gerentes de produtos, com funções que v
 
 - **Diversos Planos**: A ferramenta oferece diversos planos, incluindo uma versão gratuita e opções pagas a partir de $7.16, permitindo que equipes de diferentes tamanhos e orçamentos encontrem uma solução adequada.
 
-- **Planejamento de Longo Prazo**: O Jira é útil para o planejamento de trabalhos extensos, permitindo uma visão de vários meses em um único projeto. As funções de planejamento e gerenciamento de dependências ajudam as equipes a visualizar e gerenciar melhor o trabalho em conjunto.
+- **Planejamento de Longo Prazo**: O Jira é útil para o planejamento de trabalhos extensos, permitindo uma visão de vários meses em um único projeto. As funções de planejamento e gerenciamento de dependências ajudam as equipes a visualizar e gerenciar melhor o trabalho em conjunto..
