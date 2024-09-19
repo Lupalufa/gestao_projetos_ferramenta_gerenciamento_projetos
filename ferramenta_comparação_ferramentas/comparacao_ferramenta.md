@@ -5,10 +5,10 @@ A escolha da ferramenta de gestão de projetos ideal pode ser um desafio e tanto
 
 ## Trello:
 
-O Trello, com a sua interface visual e intuitiva, é como um quadro branco virtual onde você organiza as suas tarefas em cartões, listas e quadros. Ele é ideal para projetos menores, equipes ágeis e aqueles que valorizam a flexibilidade.
+O Trello, com a sua interface visual e intuitiva, é como um quadro branco virtual onde você organiza as suas tarefas em cartões, listas e quadros kanban. Ele é ideal para projetos menores, equipes ágeis e aqueles que valorizam a flexibilidade.
 
 ### Principais características:
-- **Visual**: Interface simples e organizada em quadros, listas e cartões, facilitando a visualização do progresso do projeto.
+- **Visual**: Interface simples e organizada em quadros Kanban, listas e cartões, facilitando a visualização do progresso do projeto.
 - **Flexibilidade**: Permite criar fluxos de trabalho personalizados para diferentes tipos de projetos, adaptando-se a diversas metodologias.
 - **Integrações**: Se integra com diversas outras ferramentas, como Google Drive, Slack e Dropbox, ampliando suas funcionalidades.
 - **Custo**: Oferece um plano gratuito com funcionalidades básicas, além de planos pagos a partir de $10 por usuário/mês.
@@ -78,22 +78,44 @@ O Asana é uma ferramenta versátil que oferece uma ampla gama de recursos para 
 
 ## Qual Ferramenta Escolher?
 
-A escolha da ferramenta ideal depende das necessidades específicas de cada projeto e equipe. Para tomar a melhor decisão, considere os seguintes fatores:
+A escolha da ferramenta ideal depende das necessidades específicas de cada projeto e equipe:
 
 - **Tamanho da equipe**: Para equipes pequenas, o Trello pode ser suficiente. Para equipes maiores e projetos complexos, o Jira ou Asana são mais indicados.
 - **Tipo de projeto**: Se o projeto é de desenvolvimento de software, o Jira é a melhor opção. Para projetos de marketing, design ou outras áreas, o Asana ou Trello podem ser mais adequados.
 - **Orçamento**: Avalie os planos e preços de cada ferramenta para escolher a que melhor se encaixa no seu orçamento.
 - **Funcionalidades**: Liste as funcionalidades que você precisa e compare as ferramentas para ver qual atende melhor às suas necessidades.
 
-## Referências
-https://www.crehana.com/blog/brasil/asana-jira-o-trello/
-https://www.atlassian.com/br/software/jira/comparison/jira-vs-asana
-https://monday.com/blog/pt/avaliacoes-pt/trello-vs-asana/
-https://www.joinsecret.com/pt/compare/asana-vs-jira
-https://asana.com/pt/go/asana-vs-trello
-https://gemini.google.com/app/c72c77a13251ada3
-
 
 ## Conclusão
 
-A escolha da ferramenta de gestão de projetos é um investimento importante para o sucesso do seu projeto. Ao analisar as características de cada ferramenta e considerar as necessidades da sua equipe, você poderá tomar a decisão mais adequada e aumentar a eficiência e a produtividade do trabalho.
+
+| **Característica**    | **Trello**                       | **Jira**                        | **Asana**                      |
+|-----------------------|----------------------------------|---------------------------------|-------------------------------|
+| **Foco**              | Tarefas e projetos simples       | Projetos de software ágil       | Gestão de projetos em geral    |
+| **Interface**         | Intuitiva e baseada em quadros   | Configurável e poderosa         | Limpa e organizada             |
+| **Metodologias**      | Kanban, Scrum                    | Scrum, Kanban, Waterfall        | Scrum, Kanban                  |
+| **Público-alvo**      | Equipes pequenas, startups       | Equipes de desenvolvimento      | Todas as equipes                |
+| **Funcionalidades**   | Quadros, listas, integrações     | Issues, epics, relatórios       | Tarefas, seções, integrações   |
+| **Preço**             | Gratuito e planos pagos          | Gratuito e plano pago                    | Gratuito e planos pagos        |
+| **Ideal para**        | Projetos simples                 | Desenvolvimento ágil            | Colaboração e projetos complexos|
+
+
+## Referências
+
+ASANA. O que é Asana?. Disponível em: https://asana.com/pt?noredirect=. Acesso em: 18 set. 2024.
+
+WEIR, D. Asana review. TechRadar. Disponível em: https://www.techradar.com/reviews/asana. Acesso em: 18 set. 2024.
+
+OPENAI. Guia sobre ferramentas e funcionalidades do Asana. Disponível em: https://chat.openai.com. Acesso em: 18 set. 2024.
+
+CREHANA. Asana, Jira ou Trello: qual a melhor ferramenta para sua equipe? Disponível em: https://www.crehana.com/blog/brasil/asana-jira-o-trello/. Acesso em: 19 set. 2024.
+
+ATLASSIAN. Jira vs. Asana: a comparação de software de gerenciamento de projetos. Disponível em: https://www.atlassian.com/br/software/jira/comparison/jira-vs-asana. Acesso em: 19 set. 2024.
+
+MONDAY.COM. Trello vs. Asana: qual é o melhor? Disponível em: https://monday.com/blog/pt/avaliacoes-pt/trello-vs-asana/. Acesso em: 19 set. 2024.
+
+JOINSECRET. Comparação entre Asana e Jira. Disponível em: https://www.joinsecret.com/pt/compare/asana-vs-jira. Acesso em: 19 set. 2024.
+
+ASANA. Asana vs. Trello: qual é a melhor ferramenta para sua equipe? Disponível em: https://asana.com/pt/go/asana-vs-trello. Acesso em: 19 set. 2024.
+
+GEMINI. Avaliação do software. Disponível em: https://gemini.google.com/app/c72c77a13251ada3. Acesso em: 19 set. 2024.
