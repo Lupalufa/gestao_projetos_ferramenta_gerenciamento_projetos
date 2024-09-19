@@ -34,3 +34,11 @@ Além disso, empresas que organizam eventos utilizam o Asana para planejar crono
 O Asana provou ser uma ferramenta estratégica para empresas que buscam otimizar o gerenciamento de projetos e melhorar a colaboração entre equipes. Sua flexibilidade permite que equipes de diferentes setores adaptem a plataforma às suas necessidades, seja em campanhas de marketing, desenvolvimento de software ou organização de eventos. Com uma interface intuitiva e funcionalidades voltadas para a automação e integração, o Asana facilita a comunicação e promove uma execução eficiente das tarefas.
 
 A capacidade do Asana de equilibrar a carga de trabalho e de fornecer uma visão clara do andamento dos projetos torna-o essencial para empresas que lidam com projetos complexos e precisam manter equipes alinhadas e produtivas. Seja para startups ou grandes corporações, o Asana continua a ser uma solução confiável e adaptável, capaz de acompanhar o crescimento e as mudanças das necessidades organizacionais ao longo do tempo.
+
+## Referências
+
+ASANA. *O que é Asana?*. Disponível em: <https://asana.com/pt?noredirect=>. Acesso em: 18 set. 2024.
+
+WEIR, D. *Asana review*. TechRadar. Disponível em: <https://www.techradar.com/reviews/asana>. Acesso em: 18 set. 2024.
+
+OPENAI. *Guia sobre ferramentas e funcionalidades do Asana*. Disponível em: <https://chat.openai.com>. Acesso em: 18 set. 2024.
