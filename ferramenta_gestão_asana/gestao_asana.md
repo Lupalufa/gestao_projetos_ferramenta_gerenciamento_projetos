@@ -14,3 +14,9 @@ O Asana oferece uma ampla variedade de funcionalidades projetadas para otimizar 
 - **Automatizações:** O Asana oferece ferramentas de automação para facilitar processos repetitivos, como a atribuição automática de tarefas ou a notificação de prazos.
 - **Integrações:** A plataforma se integra com outras ferramentas amplamente usadas, como Slack, Google Drive, e Microsoft Teams, facilitando a comunicação e o fluxo de trabalho.
 - **Relatórios e visualização de progresso:** Os usuários podem gerar relatórios sobre o andamento dos projetos e ter acesso a gráficos e indicadores que ajudam na visualização do progresso das tarefas.
+
+## Colaboração e Interações
+
+O Asana foi projetado para aprimorar a colaboração entre membros de equipes, fornecendo um ambiente centralizado onde todos podem trabalhar juntos de forma eficiente. Entre as suas principais funcionalidades está a possibilidade de os usuários fazerem comentários diretamente nas tarefas, facilitando a troca de informações e resoluções sem a necessidade de recorrer a outras ferramentas externas, como e-mails. A atribuição de tarefas de forma clara e organizada garante que cada membro da equipe saiba exatamente quais são suas responsabilidades e os prazos, promovendo maior transparência no trabalho. 
+
+Além disso, o Asana permite interações dinâmicas por meio de notificações em tempo real, que mantêm todos os envolvidos informados sobre atualizações e mudanças em tarefas e projetos. Os usuários podem também utilizar as menções em comentários para chamar a atenção de colegas específicos, assegurando que mensagens importantes sejam direcionadas corretamente. A atualização regular do status de projetos garante uma visão clara do andamento e eventuais desafios que possam surgir ao longo do caminho, permitindo ajustes rápidos.
