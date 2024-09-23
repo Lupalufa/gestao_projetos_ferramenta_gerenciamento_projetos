@@ -1,4 +1,9 @@
-# Resumo das Ferramentas de Gestão de Projetos: Trello, Jira e Asana
+# Ferramentas de Gestão
+
+## Descrição
+
+# gestao_projetos_ferramenta_gerenciamento_projetos
+Pesquisa sobre as Ferramentas de Gestão com a finalidade de desenvolver a prática de git/github em um projeto colaborativo
 
 ## Jira Product Discovery
 O Jira é uma ferramenta de gestão de produtos amplamente reconhecida, projetada para equipes ágeis. Permite a captura e priorização de ideias, além do acompanhamento do progresso de projetos. Suas principais funcionalidades incluem:
@@ -73,3 +78,13 @@ A escolha da ferramenta ideal depende das necessidades específicas de cada equi
 
 ## Conclusão
 Jira, Trello e Asana são ferramentas eficazes para a gestão de projetos, cada uma com características que atendem a diferentes contextos. A escolha deve considerar o tamanho da equipe, o tipo de projeto, o orçamento e as funcionalidades necessárias.
+
+## Links de arquivos
+
+[Documentação da Ferramenta Trello](https://github.com/Lupalufa/gestao_projetos_ferramenta_gerenciamento_projetos/blob/gestao_projetos_trello/ferramenta_trello/gestao_trello.md)
+
+[Documentação da Ferramenta Jira](https://github.com/Lupalufa/gestao_projetos_ferramenta_gerenciamento_projetos/blob/gestao_projetos_jira2/ferramenta_gest%C3%A3o_jira/gestao_jira.md)
+
+[Documentação da Ferramenta Asana](https://github.com/Lupalufa/gestao_projetos_ferramenta_gerenciamento_projetos/blob/gestao_projetos_jira2/ferramenta_gest%C3%A3o_asana/gestao_asana.md)
+
+[Documentação da Comparação de Ferramentas](https://github.com/Lupalufa/gestao_projetos_ferramenta_gerenciamento_projetos/blob/gestao_projetos_jira2/ferramenta_compara%C3%A7%C3%A3o_ferramentas/comparacao_ferramenta.md)
